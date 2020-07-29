@@ -1,7 +1,7 @@
 # nustti.yesifang.com
 > [YSF | 南理工疫情防控](https://nustti.yesifang.com)
 
-##client
+## client
 > 客户端（front side）
 
 ## server
